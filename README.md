@@ -1,4 +1,4 @@
-# Javier_dominguez_Laboratorio_5
+# javier_dominguez_laboratorio_5
 Los siguientes problemas usando Javascript, ejecutado dentro de la máquina virtual de Debian/Ubuntu
 
 Declarar dos variables con la palabra reservada "var", imprimir el resultado de las operaciones de "Suma", "Resta", "Multiplicación" y "División" en la consola. Las variables pueden ser estáticas.
